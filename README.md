@@ -1,1 +1,1 @@
-# studentDataPbix
+# Collected and analyze student data in lower education system, to visualize data and get insight on the number of students who attend primary and secondary levels by sectors in a country, and the teacher to student ratio over a period of time using Power BI.
